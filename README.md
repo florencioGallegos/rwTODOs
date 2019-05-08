@@ -1,3 +1,6 @@
-# rwTODOs
+# myTODOs
 
-This repo is a collection of TODO lists and ideas for raywenderlich.com
+This repo is a collection of all the things I wan to achive.
+
+Armando
+
